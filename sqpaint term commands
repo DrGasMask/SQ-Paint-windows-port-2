@@ -1,0 +1,9 @@
+terminal commands:
+
+./build.sh
+
+python3 main.py
+
+cd ~/SQPaint && python3 main.py
+
+
